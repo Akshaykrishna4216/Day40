@@ -1,0 +1,8 @@
+D:\UST\Day40\codingPractise\codingPractise\bin\Debug\codingPractise.exe.config
+D:\UST\Day40\codingPractise\codingPractise\bin\Debug\codingPractise.exe
+D:\UST\Day40\codingPractise\codingPractise\bin\Debug\codingPractise.pdb
+D:\UST\Day40\codingPractise\codingPractise\obj\Debug\codingPractise.csproj.AssemblyReference.cache
+D:\UST\Day40\codingPractise\codingPractise\obj\Debug\codingPractise.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day40\codingPractise\codingPractise\obj\Debug\codingPractise.csproj.CoreCompileInputs.cache
+D:\UST\Day40\codingPractise\codingPractise\obj\Debug\codingPractise.exe
+D:\UST\Day40\codingPractise\codingPractise\obj\Debug\codingPractise.pdb
